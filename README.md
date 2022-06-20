@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natsuzin
 - 👀 I'm interested in learning more about programming
-- 🌱 I’m currently studying Computer Science and learning about some programming languages 
+- 🌱 I’m currently studying Computer Science 
 - 📫 You can contact me at e-mail: suzinnath@gmail.com
 
 <!---
