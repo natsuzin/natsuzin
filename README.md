@@ -1,4 +1,4 @@
-### Olá! Eu sou a Nathalia Suzin 👩‍💻
+### Olá! Eu sou a Nathalia Suzin...
 
 ##
 
