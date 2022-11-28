@@ -10,7 +10,7 @@
   
 <div>
   <div style="display: inline_block"><br>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+    <img align="right" height="150" style="border-radius:50px;"
     src="https://cdn.discordapp.com/attachments/887489105850671115/1046620844752912394/giphy.gif">
   </div>
   
