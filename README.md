@@ -1,4 +1,6 @@
-### Olá, eu sou a Nathalia Suzin
+<div align="center">
+  <img align="center" height="450"   src="https://cdn.discordapp.com/attachments/816804156882550827/1046799421897187438/Black_Neon_Green_Neon_Pink_Trendy_Illustrative_Creative_Presentation_1.gif">
+</div>
 
 ##
 
