@@ -1,6 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Nathalia+Suzin;I'm+22+years+old;I'm+from+Brazil;I'm+currently+studying+Computer+Science;Be+welcome!)](https://git.io/typing-svg)
+Hello! 
+
+🌻 I'm Nat
+🎓 I'm currently studying Computer Ccience at UNIVALI
+🐞 I work at Intelbras as a quality assurance trainee
+🤖 But I'm actually very interested in programming 
+❤️ Technology and music are my passions
+👩‍💻 At the moment, I'm working on deepening my knowledge of object-oriented programming
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nathalia-suzin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
