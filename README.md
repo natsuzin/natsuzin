@@ -6,7 +6,7 @@
   🌻 I'm <strong>Nat</strong> <br>
   ❤️ I love <strong>Technology</strong> and <strong>Music</strong><br>
   🎓 Currently studying <strong>Computer Science</strong> at <strong>UNIVALI</strong><br>
-  🐛 Working as a <strong>Quality Assurance Trainee</strong> at <strong>Intelbras</strong><br>
+  🐛 Working as a <strong>Junior Software Developer</strong> at <strong>ID Energy</strong><br>
   👩‍💻 Passionate about <strong>Programming</strong> and always eager to learn more<br>
 </p>
 
