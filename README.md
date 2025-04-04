@@ -5,10 +5,6 @@
 I'm Nathalia, a Software Developer and Computer Science student at UNIVALI.  
 I'm passionate about clean code, problem solving and building robust and scalable web solutions.
 
-- Computer Science undergraduate (UNIVALI)  
-- Focused on fullstack development and software architecture  
-- Lifelong learner, currently exploring modern web technologies  
-
 ### Tech Stack
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
