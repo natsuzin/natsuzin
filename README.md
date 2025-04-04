@@ -21,8 +21,9 @@ I'm passionate about clean code, problem solving and building robust and scalabl
 </div>
 
 ### GitHub Stats
-![Nat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natsuzin&show_icons=true&theme=dark&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff)
+![Nat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natsuzin&show_icons=true&theme=dark&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&custom_title=Nat's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsuzin&layout=compact&theme=dark&title_color=1E90FF&text_color=ffffff)
+
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-suzin/)
