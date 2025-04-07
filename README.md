@@ -5,7 +5,6 @@
 I'm Nathalia, a Software Developer and Computer Science student at UNIVALI.
 
 - Currently expanding my knowledge in **web development** and **software architecture**
-- Focused on building **scalable**, **efficient**, and **maintainable** solutions
 - Always open to **new challenges**
 - Committed to **delivering my best** in every project
 
