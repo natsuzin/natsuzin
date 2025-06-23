@@ -34,7 +34,7 @@
 
 ---
 
-### Let’s Connect!
+### Connections
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathalia-suzin/" target="_blank">
