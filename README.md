@@ -6,7 +6,7 @@
   Software Developer | CS Student @ UNIVALI <br/>
 </p>
 
----
+
 
 ### About Me
  
@@ -16,11 +16,11 @@
 - ✅ Background in software quality assurance and process improvement  
 - 🚀 Always open to new challenges and growth opportunities  
 
----
+
 
 ### Tech Stack
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -31,11 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
----
+
 
 ### Connections
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/nathalia-suzin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
