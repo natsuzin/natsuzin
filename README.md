@@ -6,8 +6,6 @@
   Software Developer | CS Student @ UNIVALI <br/>
 </p>
 
-<p align="center"><i>Transforming code into solutions, and melodies into stories.</i></p>
-
 ---
 
 ### About Me
