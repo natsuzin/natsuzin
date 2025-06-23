@@ -4,18 +4,19 @@
 
 <p align="center">
   Software Developer | CS Student @ UNIVALI <br/>
-  Passionate about building scalable web apps and clean architectures 🚀
 </p>
+
+<p align="center"><i>Transforming code into solutions, and melodies into stories.</i></p>
 
 ---
 
 ### About Me
-
-- 🎯 Passionate about **web development** and **software architecture**  
-- 🎸 Music lover and always eager to learn new instruments — because who says devs can't be artists?  
-- ✍️ Skilled in writing — I enjoy crafting texts, song lyrics, and poetry  
-- 🚀 Always up for new challenges to grow both personally and professionally  
-- 💡 Committed to delivering quality solutions with creativity and dedication  
+ 
+- 🧠 Passionate about technology and programming  
+- 🎸 Music enthusiast with a passion for writing and developing stories  
+- 🖥️ Experience in UI/UX and screen design  
+- ✅ Background in software quality assurance and process improvement  
+- 🚀 Always open to new challenges and growth opportunities  
 
 ---
 
