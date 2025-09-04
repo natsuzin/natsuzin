@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h2 align="center">Hey, I’m Nathalia! Welcome to my GitHub</h2>
+<h2 align="center">Hey, I’m Nat! Welcome to my GitHub</h2>
 
 <p align="center">
   Software Developer | CS Student @ UNIVALI <br/>
