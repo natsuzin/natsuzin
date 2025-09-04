@@ -7,11 +7,11 @@
 </p>
 
 ### About Me
-- 🧠 Passionate about technology and programming  
-- 🎸 Music enthusiast with a passion for writing  
-- 🖥️ Experience in UI/UX and screen design  
-- ✅ Background in software quality assurance and process improvement  
-- 🚀 Always open to new challenges and growth opportunities  
+- Passionate about technology and programming  
+- Music enthusiast with a passion for writing  
+- Experience in UI/UX and screen design  
+- Background in software quality assurance and process improvement  
+- Always open to new challenges and growth opportunities  
 
 ### Tech Stack
 <div>
