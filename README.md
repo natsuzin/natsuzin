@@ -3,7 +3,7 @@
 <h2 align="center">Hey, I’m Nat! Welcome to my GitHub</h2>
 
 <p align="center">
-  Software Developer | CS Student @ UNIVALI <br/>
+  Full Stack | CS Student @ UNIVALI <br/>
 </p>
 
 ### About Me
