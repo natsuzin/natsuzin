@@ -6,15 +6,11 @@
 
 </div>
 
-<br/>
-
 ## ✦ About Me
 * Location: Brazil 🇧🇷
 * Education: Computer Science @ UNIVALI
 * Current focus: Full Stack Web Development
 * Interests: Technology • Music • Adventure
-
-<br/>
 
 ## ✦ Tech Stack
 
