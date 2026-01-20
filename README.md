@@ -31,18 +31,6 @@
 
 <br/>
 
-## ✦ What I Bring 
-
-<div align="center">
-
-| UI/UX Design | Quality Assurance | Full Stack Dev |
-|:---:|:---:|:---:|
-| Creating intuitive and beautiful user experiences | Background in software QA and process improvement | Building end-to-end web solutions |
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
