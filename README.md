@@ -34,62 +34,22 @@ const nat = {
 <br/>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><sub><b>C#</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br><sub><b>C++</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><sub><b>CSS3</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><sub><b>Figma</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><sub><b>GitHub</b></sub>
-</td>
-</tr>
-</table>
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <br/>
