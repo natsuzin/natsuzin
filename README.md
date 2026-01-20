@@ -77,8 +77,6 @@ const nat = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nathaliasuzin&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
 
 </div>
