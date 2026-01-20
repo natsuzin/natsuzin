@@ -8,7 +8,7 @@
 
 <br/>
 
-## ✦ About
+## ✦ About Me
 * Location: Brazil 🇧🇷
 * Education: Computer Science @ UNIVALI
 * Current focus: Full Stack Web Development
@@ -16,7 +16,7 @@
 
 <br/>
 
-## ✦ Tecnologias
+## ✦ Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,js,cs,cpp,html,css&theme=dark" alt="Languages" />
